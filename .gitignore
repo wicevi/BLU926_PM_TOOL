@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Tool runtime output (measurement logs & captures are machine/session-local)
+recordings/
+
+# Local design reference (kept on disk, not part of the deliverable)
+docs/agent-tool-design.md
+
+# Editors / clients
+.zcode/
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
